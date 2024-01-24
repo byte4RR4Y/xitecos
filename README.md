@@ -14,3 +14,6 @@ Advantages of MX Linux:
     Lightweight and Efficient: MX Linux is known for its efficiency and low system resource requirements, making it suitable for older hardware or systems with limited resources.
     Customization: MX Linux provides a user-friendly interface with a range of customization options, allowing users to tailor the desktop environment to their preferences.
     MX Tools: MX Linux includes a set of tools (MX Tools) that simplify various tasks, enhancing the overall user experience.
+
+
+Download @ https://drive.google.com/file/d/1vYOjJqD5PJap9aKySqHiWS5zWuL8vl5E/view?usp=sharing
