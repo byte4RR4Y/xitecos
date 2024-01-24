@@ -17,3 +17,8 @@ Advantages of MX Linux:
 
 
 Download @ https://drive.google.com/file/d/1vYOjJqD5PJap9aKySqHiWS5zWuL8vl5E/view?usp=sharing
+
+----------------------------------------------------
+     login:    xitec
+     password: xitec
+----------------------------------------------------
