@@ -16,8 +16,7 @@ Advantages of MX Linux:
     MX Tools: MX Linux includes a set of tools (MX Tools) that simplify various tasks, enhancing the overall user experience.
 
 
-Download for amd64 @ https://drive.google.com/file/d/1vYOjJqD5PJap9aKySqHiWS5zWuL8vl5E/view?usp=sharing
-
+Download for amd64 @ https://drive.google.com/drive/folders/1qUTAkEv4vk_45YkdHC3HCwyVi5ToJaLM?usp=sharing
 ----------------------------------------------------
      login:    xitec
      password: xitec
