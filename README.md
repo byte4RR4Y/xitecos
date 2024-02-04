@@ -15,6 +15,15 @@ Advantages of MX Linux:
     Customization: MX Linux provides a user-friendly interface with a range of customization options, allowing users to tailor the desktop environment to their preferences.
     MX Tools: MX Linux includes a set of tools (MX Tools) that simplify various tasks, enhancing the overall user experience.
 
+XFCE Edition is a full Desktop Environment with all the tools you can imagine
+
+CLI Edition(v0.7):
+
+...has an automatic wifi and installer setup script on first boot. After installing the system there is an easy firstboot script to install one of the following Desktops:
+xfce4, gnome(includes gnome shell), gnome flashback, mate, cinnamon, lxqt, lxde, unity, kde-plasma, dde(deepin desktop environment), budgie.
+the following will be added soon: pantheon, and maybe thedesk and others....
+
+If you want to setup a Debian Testing from the bottom with a liquorix kernel and the desktop of your choice this is your chance
 
 Download for amd64 @ https://drive.google.com/drive/folders/1qUTAkEv4vk_45YkdHC3HCwyVi5ToJaLM?usp=sharing
 ----------------------------------------------------
