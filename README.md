@@ -15,7 +15,7 @@ Advantages of MX Linux:
     Customization: MX Linux provides a user-friendly interface with a range of customization options, allowing users to tailor the desktop environment to their preferences.
     MX Tools: MX Linux includes a set of tools (MX Tools) that simplify various tasks, enhancing the overall user experience.
 
-# XFCE Edition is a full Desktop Environment with all the tools you can imagine
+# XFCE Edition - full Desktop Environment with all tools you can imagine
 
     -uses the grub bootloader from Debian stable(bookworm) to facing issues with the current and future version(s)
     -uses the MX Linux Style XFCE4 Desktop
