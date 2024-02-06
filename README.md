@@ -66,7 +66,8 @@ If you run the installed system:
 
 If you want to setup a Debian Testing from the bottom with a liquorix kernel and the desktop of your choice this is your chance
 
-Download for amd64 only @ https://drive.google.com/drive/folders/1qUTAkEv4vk_45YkdHC3HCwyVi5ToJaLM?usp=sharing
+# Download for amd64 only at my google drive
+https://drive.google.com/drive/folders/1qUTAkEv4vk_45YkdHC3HCwyVi5ToJaLM?usp=sharing
 ----------------------------------------------------
      login:    xitec
      password: xitec
