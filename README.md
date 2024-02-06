@@ -20,7 +20,7 @@ Advantages of MX Linux:
     -uses the grub bootloader from Debian stable(bookworm) to facing issues with the current and future version(s)
     -uses the MX Linux Style XFCE4 Desktop
     -you have everything preinstalled:
-        -audio-/videoplayer, insternet radio
+        -audio-/videoplayer, internet radio
         -'winff' audio-/videoconverter
         -'recordmydesktop' screencast tool
         -libreoffice
