@@ -25,6 +25,14 @@ Advantages of Debian Testing:
     Up-to-date Software: Users can benefit from relatively recent versions of software packages, striking a balance between stability and cutting-edge features.
     Community Support: Debian has a large and active community, ensuring excellent support and a wealth of resources for users.
 
+If you wabt to be up to date you press [F4] to open console and type:
+--------------------------------------------------
+     sudo apt update -y
+     sudo apt upgrade -y
+     sudo apt full-upgrade -y
+     sudo apt dist-upgrade -y
+--------------------------------------------------
+
 Advantages of MX Linux:
 
     Lightweight and Efficient: MX Linux is known for its efficiency and low system resource requirements, making it suitable for older hardware(in this case amd64 only) or systems with limited resources.
