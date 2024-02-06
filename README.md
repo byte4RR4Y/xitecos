@@ -4,13 +4,16 @@ Linux distribution
 "I have created a Linux distribution based on Debian Testing and MX Linux, and, what can I say, it is fast, very fast, and very user-friendly. It is a live system with an installer, and I hope that others will test it.
 
 XitecOS is based on Debian Testing and prefers the packages of this repository but I've added the following repositories:
+
     -Debian Trixie
     -Debian Bookworm
     -Debian Sid
     -MX Linux
     -Miscrosoft(Visual Studio Code)
     -Penguin's Eggs (for backups with eggs)
+    
 Overview:
+
     -If you install any programm it will be installed from Debian Testing(Trixie) except the grub bootloader(bookworm).
     -Kernel Updates are from the MX Linux ahs(Advanced Hardware Support) repository(it's a Liquorix Kernel).
     -The XFCE4 Desktop is patched with the MX Linux version
