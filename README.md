@@ -25,7 +25,7 @@ Advantages of MX Linux:
         -'recordmydesktop' screencast tool
         -libreoffice
         -geanny, idle and visual studio code IDE
-        -XitecOS backup(build your own live system of your system with calamares installer
+        -XitecOS backup(build your own live system of your system with calamares installer)
         -ventoy 1.0.97 for creating Multiboot USB drives(install it to USB and just copy .iso and .img images to it, and boot it)
         -GIMP photo editor
         -openshot video editor
