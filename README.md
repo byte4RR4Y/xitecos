@@ -62,15 +62,15 @@ Advantages of MX Linux:
 
 If you run the live system:
 
--It asks automaticly for installing XitecOS CLI edition
+    -It asks automaticly for installing XitecOS CLI edition
 
 IMPORTANT: CLI EDITION CAN'T BE INSTALLED ALONGSIDE AN OTHER OPERATING SYSTEM
 
 If you run the installed system:
 
--It asks automaticly for setting up WIFI connection
+    -It asks automaticly for setting up WIFI connection
 
--It asks if you wish to install a Desktop-environment
+    -It asks if you wish to install a Desktop-environment
     with or without programs preinstalled
       if you want to setup everything on your own
 
