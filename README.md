@@ -59,9 +59,9 @@ If you run the installed system:
     -lxqt
     -lxde
     -unity
+    -budgie
     -kde-plasma
     -pantheon
-    -budgie
 
 
 If you want to setup a Debian Testing from the bottom with a liquorix kernel and the desktop of your choice this is your chance
