@@ -47,8 +47,8 @@ If you run the installed system:
 -It asks automaticly for setting up WIFI connection
 
 -It asks if you wish to install a Desktop-environment
-    with programs preinstalled
-    or without programms preinstalled if you want to setup everything on your own
+    with or without programs preinstalled
+      if you want to setup everything on your own
 
 # THE FOLLOWING DESKTOPS ARE SUPPORTED:
 
