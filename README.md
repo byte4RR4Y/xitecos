@@ -34,7 +34,7 @@ Advantages of MX Linux:
         
 #-------------
 
-# CLI Edition(v0.9) will be online on 2024-02-07(in about 2 hours):
+# CLI Edition(v0.9) will be online on 2024-02-07(in about 10 minutes):
 
 If you run the live system:
 
