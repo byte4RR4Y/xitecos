@@ -15,17 +15,58 @@ Advantages of MX Linux:
     Customization: MX Linux provides a user-friendly interface with a range of customization options, allowing users to tailor the desktop environment to their preferences.
     MX Tools: MX Linux includes a set of tools (MX Tools) that simplify various tasks, enhancing the overall user experience.
 
-XFCE Edition is a full Desktop Environment with all the tools you can imagine
+# XFCE Edition is a full Desktop Environment with all the tools you can imagine
 
-CLI Edition(v0.7):
+    -uses the grub bootloader from Debian stable(bookworm) to facing issues with the current and future version(s)
+    -uses the MX Linux Style XFCE4 Desktop
+    -you have everything preinstalled:
+        -audio-/videoplayer, insternet radio
+        -'winff' audio-/videoconverter
+        -'recordmydesktop' screencast tool
+        -libreoffice
+        -geanny, idle and visual studio code IDE
+        -XitecOS backup(build your own live system of your system with calamares installer
+        -ventoy 1.0.97 for creating Multiboot USB drives(install it to USB and just copy .iso and .img images to it, and boot it)
+        -GIMP photo editor
+        -openshot video editor
+        -the most of the MX-tools
+        -the everywhere condele by pressing 'F4' like in MX Linux (I LOVE THIS CONSOLE)
+        
+#-------------
 
-...has an automatic wifi and installer setup script on first boot. After installing the system there is an easy firstboot script to install one of the following Desktops:
-xfce4, gnome(includes gnome shell), gnome flashback, mate, cinnamon, lxqt, lxde, unity, kde-plasma, dde(deepin desktop environment), budgie.
-the following will be added soon: pantheon, and maybe thedesk and others....
+# CLI Edition(v0.9) will be online on 2024-02-07(in about an hour):
+
+If you run the live system:
+
+-It asks automaticly for installing XitecOS CLI edition
+
+IMPORTANT: CLI EDITION CAN'T BE INSTALLED ALONGSIDE AN OTHER OPERATING SYSTEM
+
+If you run the installed system:
+
+-It asks automaticly for setting up WIFI connection
+
+-It asks if you wish to install a Desktop-environment
+    with programs preinstalled
+    or without programms preinstalled if you want to setup everything on your own
+
+# THE FOLLOWING DESKTOPS ARE SUPPORTED:
+
+    -xfce4
+    -gnome
+    -mate
+    -cinnamon
+    -lxqt
+    -lxde
+    -unity
+    -kde-plasma
+    -pantheon
+    -budgie
+
 
 If you want to setup a Debian Testing from the bottom with a liquorix kernel and the desktop of your choice this is your chance
 
-Download for amd64 @ https://drive.google.com/drive/folders/1qUTAkEv4vk_45YkdHC3HCwyVi5ToJaLM?usp=sharing
+Download for amd64 only @ https://drive.google.com/drive/folders/1qUTAkEv4vk_45YkdHC3HCwyVi5ToJaLM?usp=sharing
 ----------------------------------------------------
      login:    xitec
      password: xitec
