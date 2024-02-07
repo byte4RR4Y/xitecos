@@ -58,7 +58,7 @@ Advantages of MX Linux:
         
 #-------------
 
-# CLI Edition(v1.0):
+# CLI Edition(v0.9):
 
 If you run the live system:
 
