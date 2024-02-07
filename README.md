@@ -63,6 +63,7 @@ Advantages of MX Linux:
 If you run the live system:
 
     -It asks automaticly for installing XitecOS CLI edition
+    ->At the moment you must add 'EFI/xitecos/grubx64.efi' in BIOS manually<-
 
 IMPORTANT: CLI EDITION CAN'T BE INSTALLED ALONGSIDE AN OTHER OPERATING SYSTEM
 
