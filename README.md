@@ -6,9 +6,8 @@ Linux distribution
 XitecOS is based on Debian Testing and prefers the packages of this repository but I've added the following repositories:
 
     -Debian Trixie
-    -Debian Bookworm
-    -Debian Sid
-    -MX Linux
+    -Debian Bookworm(For the stable bootloader)
+    -MX Linux (For the Liquorix Kernel and a few MX-Tools)
     -Miscrosoft(Visual Studio Code)
     -Penguin's Eggs (for backups with eggs)
     
@@ -16,8 +15,7 @@ Overview:
 
     -If you install any programm it will be installed from Debian Testing(Trixie) except the grub bootloader(bookworm).
     -Kernel Updates are from the MX Linux ahs(Advanced Hardware Support) repository(it's a Liquorix Kernel).
-    -The XFCE4 Desktop is patched with the MX Linux version
-    -If you want to install from Sid you can type 'sudo apt install PRGRAMNAME/sid' for example.
+    -If you want to install from Sid you can type 'sudo apt install PRGRAMNAME/sid' for example. But You should stay on Trixie.
 
 Advantages of Debian Testing:
 
